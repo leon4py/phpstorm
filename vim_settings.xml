@@ -8,10 +8,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/lab/fe/wx-or/conf/nginx.conf" timestamp="1513006324461">
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="8" />
+      <file name="D:/lab/fe/wx-or/conf/nginx.conf" timestamp="1513007312381">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="/PHP Console" timestamp="1513004906834">
         <mark key="[" line="0" column="0" />
@@ -47,7 +47,7 @@
         <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>nobody</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICogVGltZTogz8LO5yAyMjo1Mwo=</text>
@@ -68,7 +68,7 @@
         <text encoding="base64">ICAgICRlbnZpZCA9ICRfR0VUWyJlbnZpZCJdOwogICAgaWYgKCRlbnZpZCA9PSAiMSIpIHsKICAgICAgICAkdXJsID0gImh0dHA6Ly9vYS5qY2hsLmNvbS9wb3J0YWwiOwogICAgfSBlbHNlIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>nobody</text>
       </register>
     </registers>
     <search>
